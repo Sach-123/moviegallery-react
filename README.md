@@ -11,4 +11,4 @@ A simple React Js Based web app which allows user to search from hundred of movi
 ![movie gallery 2](https://user-images.githubusercontent.com/93433440/232190015-0c97cf70-e82c-4f93-8b72-887517679417.jpg)
  
 ## Deployment
-Check GitHub pages for deployement or click on this link https://sach-123.github.io/moviegallery-react/
+Check GitHub pages for deployment or click on this link https://sach-123.github.io/moviegallery-react/
